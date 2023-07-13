@@ -1,0 +1,38 @@
+{
+  "name": "ChatApp-backend",
+  "version": "1.0.0",
+  "description": "A real-time chat application for users to connect and communicate",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "chat",
+    "real-time",
+    "messaging",
+    "communication",
+    "web application",
+    "backend",
+    "MERN",
+    "MongoDB",
+    "Express",
+    "Node.js",
+    "WebSocket"
+  ],
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^7.0.3",
+    "ws": "^8.13.0"
+  },
+  "author": "Junaid Saleem",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/junaidsaleem10144/VacationVibe/issues"
+  },
+  "homepage": "https://github.com/junaidsaleem10144/chatApp"
+}
